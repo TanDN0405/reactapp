@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/reactapp/static/css/main.f99822be.chunk.css",
-    "main.js": "/reactapp/static/js/main.9183c02a.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.9183c02a.chunk.js.map",
-    "runtime-main.js": "/reactapp/static/js/runtime-main.5f1760ef.js",
-    "runtime-main.js.map": "/reactapp/static/js/runtime-main.5f1760ef.js.map",
-    "static/js/2.91e62ee1.chunk.js": "/reactapp/static/js/2.91e62ee1.chunk.js",
-    "static/js/2.91e62ee1.chunk.js.map": "/reactapp/static/js/2.91e62ee1.chunk.js.map",
-    "static/js/3.92e729c4.chunk.js": "/reactapp/static/js/3.92e729c4.chunk.js",
-    "static/js/3.92e729c4.chunk.js.map": "/reactapp/static/js/3.92e729c4.chunk.js.map",
-    "index.html": "/reactapp/index.html",
-    "static/css/main.f99822be.chunk.css.map": "/reactapp/static/css/main.f99822be.chunk.css.map",
-    "static/js/2.91e62ee1.chunk.js.LICENSE.txt": "/reactapp/static/js/2.91e62ee1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/reactapp/static/media/logo.6ce24c58.svg",
-    "static/media/index.css": "/reactapp/static/media/rou.10ce63ef.jpg"
+    "main.css": "/slide-react/static/css/main.163468a8.chunk.css",
+    "main.js": "/slide-react/static/js/main.bca73938.chunk.js",
+    "main.js.map": "/slide-react/static/js/main.bca73938.chunk.js.map",
+    "runtime-main.js": "/slide-react/static/js/runtime-main.9932deaa.js",
+    "runtime-main.js.map": "/slide-react/static/js/runtime-main.9932deaa.js.map",
+    "static/js/2.55efb8ba.chunk.js": "/slide-react/static/js/2.55efb8ba.chunk.js",
+    "static/js/2.55efb8ba.chunk.js.map": "/slide-react/static/js/2.55efb8ba.chunk.js.map",
+    "static/js/3.fec9aec1.chunk.js": "/slide-react/static/js/3.fec9aec1.chunk.js",
+    "static/js/3.fec9aec1.chunk.js.map": "/slide-react/static/js/3.fec9aec1.chunk.js.map",
+    "index.html": "/slide-react/index.html",
+    "static/css/main.163468a8.chunk.css.map": "/slide-react/static/css/main.163468a8.chunk.css.map",
+    "static/js/2.55efb8ba.chunk.js.LICENSE.txt": "/slide-react/static/js/2.55efb8ba.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/slide-react/static/media/rou.10ce63ef.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5f1760ef.js",
-    "static/js/2.91e62ee1.chunk.js",
-    "static/css/main.f99822be.chunk.css",
-    "static/js/main.9183c02a.chunk.js"
+    "static/js/runtime-main.9932deaa.js",
+    "static/js/2.55efb8ba.chunk.js",
+    "static/css/main.163468a8.chunk.css",
+    "static/js/main.bca73938.chunk.js"
   ]
 }
